@@ -1,24 +1,5 @@
-# headlines-m
+# headlines-m 头条移动端
 
-## Project setup
-```
-npm install
-```
+* 正在开发移动端项目，算是自己真正开发的第一个项目，现在还正在开发中，记录一下自己的开发学习经历
+* 2021年10月22日00:02:18
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
